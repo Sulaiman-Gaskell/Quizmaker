@@ -1,0 +1,25 @@
+Fact: What is the capital of France?,Paris
+Fact: Who wrote the play "Romeo and Juliet"?,William Shakespeare
+Fact: What is the largest planet in our solar system?,Jupiter
+Fact :Who painted the Mona Lisa?,Leonardo da Vinci
+Fact: What is the chemical symbol for gold?,Au
+Fact: What is the largest mammal on Earth?,The blue whale
+Fact: In which year did Christopher Columbus discover America?,1492
+Fact: What is the largest ocean in the world?,The Pacific Ocean
+Fact: Which gas do plants absorb from the atmosphere during photosynthesis?,Carbon dioxide
+Fact: Who is the author of "To Kill a Mockingbird"?,Harper Lee
+Fact: What is the smallest prime number?,2
+Fact: What is the chemical symbol for water?,H2O
+Fact: What is the largest organ in the human body?,The skin
+Fact: Who was the first woman to fly solo across the Atlantic Ocean?,Amelia Earhart
+Fact: What is the currency of Japan?,Japanese Yen (JPY)
+Fact: What is the boiling point of water in Celsius?,100 degrees Celsius
+Fact: Who wrote "The Great Gatsby"?,F. Scott Fitzgerald
+Fact: Which gas makes up the majority of Earth's atmosphere?,Nitrogen
+Fact: What is the largest desert in the world?,The Sahara Desert
+Fact: What is the chemical symbol for iron?,Fe
+Fact: Who was the first U.S. President?,George Washington
+Fact: What is the largest planet in our solar system?,Jupiter
+Fact: Which country is known as the Land of the Rising Sun?,Japan
+Fact: What is the largest species of penguin?,Emperor penguin
+Fact: Who wrote "Pride and Prejudice"?,Jane Austen
